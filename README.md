@@ -65,3 +65,20 @@ Test out the Ziegler Nichols method [online](https://learnaboutpid.com/).
 
 >[!NOTE]
 >Because of the insufficient current that caused by the power supply, it required more batteries which im not be able to provide them at the time. Therefore i decided to mark this project as done.
+
+DOCUMENTATION
+-----------------------------
+**Testing Stepper Motor**
+
+<img width="597" height="550" alt="Github1" src="https://github.com/user-attachments/assets/71a37610-91e6-42f3-9e54-293a89dced2b" />
+
+**Finding Out the Right Pair Of Stepper Motor Cables**
+
+<img width="750" height="1138" alt="Github3" src="https://github.com/user-attachments/assets/1b47d014-ac09-4233-b8e7-33346059fc3a" />
+
+
+
+**Soldering**
+
+<img width="702" height="750" alt="Github2" src="https://github.com/user-attachments/assets/e56346ea-5933-4c26-ba86-0d2ad7379488" />
+
