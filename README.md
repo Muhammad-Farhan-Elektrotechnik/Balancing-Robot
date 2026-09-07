@@ -63,4 +63,5 @@ Test out the Ziegler Nichols method [online](https://learnaboutpid.com/).
 5. Increase Kp by a little.
 6. By then the "robot" will move to one direction and here where Ki comes in. Increase and adjust Ki a little until it stabled.
 
-
+>[!NOTE]
+>Because of the insufficient current that caused by the power supply, it required more batteries which im not be able to provide them at the time. Therefore i decided to mark this project as done.
