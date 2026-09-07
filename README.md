@@ -7,7 +7,7 @@ Also the robot used all of the cores in the ESP32 (2 cores), where one of the co
 ----------------
 <img width="880" height="436" alt="Schematics" src="https://github.com/user-attachments/assets/a739171b-92dc-438b-a9f4-dd96e0af078c" />
 **HARDWARE:**
---------------
+----------------
 *ESP32 
 *MPU6050 
 *2 Stepper Motor
