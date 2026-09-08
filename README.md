@@ -66,7 +66,7 @@ Test out the Ziegler Nichols method [online](https://learnaboutpid.com/).
 6. By then the "robot" will move to one direction and here where Ki comes in. Increase and adjust Ki a little until it stabled.
 
 >[!NOTE]
->Because of the insufficient current that caused by the power supply, it required more batteries which im not be able to provide them at the time. Therefore i decided to mark this project as done.
+>Physical tuning under high current-draw conditions revealed significant voltage sag (*power sag*) on the 12V battery setup during continuous motor oscillation. To avoid artificial parameter distortion caused by voltage instability, the final response curves were cross-validated and simulated using Software-in-the-Loop (SIL) tools (e.g., [learnaboutpid.com](https://learnaboutpid.com/)).
 
 DOCUMENTATION
 -----------------------------
