@@ -15,7 +15,7 @@ HARDWARE
 * MPU6050 
 * 2 Stepper Motor
 * 2 Driver (DRV8825 in my case)
-* 2 electrolytic Capacitor (100 mikroFahrrad, 50v)
+* 2 electrolytic Capacitor (100 mikroFarad, 50v)
 * Jumper Cable
 * Power Supply (12v each)
 -------------------------
