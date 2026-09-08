@@ -37,7 +37,7 @@ not connected  |  A1,A2,B1,B2 ❗(use Multimeter to find out which pair of cable
   <img width="1600" height="736" alt="Selbsstabilisierender Robote" src="https://github.com/user-attachments/assets/2d85f41c-cf68-47b2-9bca-c5625e2d893f" />
 
 > [!WARNING]
-> In the photo the power supply is only 4 LiPO batteries which is 12v and run the 2 stepper motor parallel. It will be a problem when tuning the PID, since it required a few time to testing, because of the insufficient amount of current
+> In the photo the power supply is only 4 LiPO batteries which is 12v and run the 2 stepper motor parallel. It will be a problem when tuning the PID, and causing power sag.
 
 > [!TIP]
 > Using PCB would be reccomended.
