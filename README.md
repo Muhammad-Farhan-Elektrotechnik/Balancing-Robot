@@ -65,8 +65,8 @@ Test out the Ziegler Nichols method [online](https://learnaboutpid.com/).
 5. Increase Kp by a little.
 6. By then the "robot" will move to one direction and here where Ki comes in. Increase and adjust Ki a little until it stabled.
 
->[!NOTE]
->Physical tuning under high current-draw conditions revealed significant voltage sag (*power sag*) on the 12V battery setup during continuous motor oscillation. To avoid artificial parameter distortion caused by voltage instability, the final response curves were cross-validated and simulated using Software-in-the-Loop (SIL) tools (e.g., [learnaboutpid.com](https://learnaboutpid.com/)).
+>[!IMPORTANT]
+>don't use 12v power supply and make a parallel circuit, otherwise it'll cause power sag.
 
 DOCUMENTATION
 -----------------------------
